@@ -1,7 +1,7 @@
 {
 	"name": "@xrplkit/xfl",
 	"type": "module",
-	"version": "2.0.2",
+	"version": "1.0.1-alpha.0",
 	"main": "./dist/xfl.cjs",
 	"module": "./dist/xfl.js",
 	"types": "./dist/xfl.d.ts",
