@@ -1,7 +1,7 @@
 {
 	"name": "@xrplkit/txmeta",
 	"type": "module",
-	"version": "1.0.1-alpha.0",
+	"version": "1.0.2-alpha.0",
 	"main": "./dist/extract.cjs",
 	"module": "./dist/extract.js",
 	"types": "./dist/extract.d.ts",
@@ -19,8 +19,8 @@
 		"build": "npm-run-all -s build:clean build:all"
 	},
 	"dependencies": {
-		"@xrplkit/amount": "^1.0.1-alpha.0",
-		"@xrplkit/xfl": "^1.0.1-alpha.0"
+		"@xrplkit/amount": "^1.0.2-alpha.0",
+		"@xrplkit/xfl": "^1.0.2-alpha.0"
 	},
 	"publishConfig": {
 		"access": "public"
