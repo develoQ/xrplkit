@@ -1,7 +1,7 @@
 {
 	"name": "@xrplkit/xls26",
 	"type": "module",
-	"version": "2.3.1",
+	"version": "1.1.0",
 	"main": "./dist/xls26.cjs",
 	"module": "./dist/xls26.js",
 	"types": "./dist/xls26.d.ts",
@@ -19,7 +19,7 @@
 		"build": "npm-run-all -s build:clean build:all"
 	},
 	"dependencies": {
-		"@xrplkit/toml": "1.0.0"
+		"@xrplkit/toml": "^1.1.0"
 	},
 	"publishConfig": {
 		"access": "public"

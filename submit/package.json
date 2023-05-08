@@ -1,7 +1,7 @@
 {
   "name": "@xrplkit/submit",
   "type": "module",
-  "version": "1.1.1",
+  "version": "1.1.0",
   "main": "./dist/submit.cjs",
   "browser": "./dist/submit.js",
   "module": "./dist/submit.js",
@@ -22,7 +22,7 @@
   },
   "author": "xrplkit",
   "dependencies": {
-    "@xrplkit/wallet": "1.1.0",
+    "@xrplkit/wallet": "^1.1.0",
     "ripple-binary-codec": "^1.4.0"
   },
   "tsup": {

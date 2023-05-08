@@ -21,8 +21,8 @@
 	"author": "xrplkit",
 	"dependencies": {
 		"@mwni/events": "^1.0.0",
-		"@xrplkit/xfl": "2.0.2",
-		"@xrplkit/amount": "1.2.1"
+		"@xrplkit/amount": "1.2.1",
+		"@xrplkit/xfl": "^1.1.0"
 	},
 	"tsup": {
 		"entry": [

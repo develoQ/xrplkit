@@ -1,7 +1,7 @@
 {
 	"name": "@xrplkit/book",
 	"type": "module",
-	"version": "2.1.0",
+	"version": "1.1.0",
 	"main": "./dist/book.cjs",
 	"module": "./dist/book.js",
 	"types": "./dist/book.d.ts",
@@ -22,8 +22,8 @@
 	"author": "xrplkit",
 	"dependencies": {
 		"@mwni/events": "^1.0.0",
-		"@xrplkit/amount": "1.2.3",
-		"@xrplkit/xfl": "2.0.2"
+		"@xrplkit/amount": "^1.1.0",
+		"@xrplkit/xfl": "^1.1.0"
 	},
 	"publishConfig": {
 		"access": "public"
